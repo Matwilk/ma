@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Roboto:500,300,100);
+@import url(//fonts.googleapis.com/css?family=Cherry+Cream+Soda:500,300,100);
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,600);
 
 /* ------------------------- DRUPAL 7 FRAMEWORK ------------------------- */
@@ -138,7 +138,7 @@ div.messages {
 }
 
 .header-phone .content {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	font-weight: 500;
 	text-transform: uppercase;
 	font-size: 15px;
@@ -186,7 +186,7 @@ div.messages {
 			font-size:15px;
 			padding:10px 12px 11px 12px;
 			text-decoration:none;
-			font-family: 'Roboto', sans-serif;
+			font-family: 'Cherry Cream Soda', sans-serif;
 			font-weight: 500;
 			text-transform: uppercase;
 		}
@@ -354,7 +354,7 @@ div.messages {
 		color: #fff;
 		font-size: 140px;
 		line-height: 140px;
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Cherry Cream Soda', sans-serif;
 		font-weight: 100;
 		margin-left: -12px;
 		margin-bottom: 5px;
@@ -370,7 +370,7 @@ div.messages {
 		color: #f4af00;
 		font-size: 50px;
 		line-height: 50px;
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Cherry Cream Soda', sans-serif;
 		font-weight: 300;
 		margin-bottom: 10px;
 	}
@@ -552,7 +552,7 @@ article.comment h3 {
 	line-height:36px;
 	margin-bottom:33px;
 	text-transform:uppercase;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	color: #494949;
 	font-weight: 300;
 }
@@ -709,7 +709,7 @@ ul.menu li {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	font-weight: 500;
 	padding-top: 16px;
 }
@@ -717,7 +717,7 @@ ul.menu li {
 .srvice-header .views-field-title {
 	font-size: 30px;
 	line-height: 30px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	font-weight: 300;
 	padding-top: 12px;
 }
@@ -725,7 +725,7 @@ ul.menu li {
 .summary {
 	text-transform: uppercase;
 	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	font-weight: 100;
 	line-height: 25px;
 	color: #a9a9a9;
@@ -747,7 +747,7 @@ ul.menu li {
 	font-size: 15px;
 	line-height: 36px;
 	text-transform: uppercase;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cherry Cream Soda', sans-serif;
 	color: #ffffff;
 	font-weight: 300;
 }
